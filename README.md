@@ -11,3 +11,7 @@ Clone the project to your own computer. Then simply open the index.html file in 
 ## Roadmap of future improvements
 
 In the future I maybe try to make a person or a figure to put the eyes on
+
+## License information
+
+This project is under the MIT License which you can find [here](LICENSE)
